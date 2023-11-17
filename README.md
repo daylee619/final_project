@@ -62,13 +62,19 @@ IDE : Eclipse
   - 입양이 완료된 펫은 입양 가능 펫리스트에서 삭제 가능
     
 
-<img width="950" alt="adopt1" src="https://github.com/daylee619/final_project/assets/110576332/7a8da947-2366-4571-8c89-1e6c75ba0910">
+<img width="950" alt="adopt1" src="https://github.com/daylee619/final_project/assets/110576332/b33235af-b2f8-47f9-9f8b-7790ee1b2e88">
 
-<img width="848" alt="adopt2" src="https://github.com/daylee619/final_project/assets/110576332/4ef4d5d8-7097-4a3d-a5f2-df68c27e0192">
 
-<img width="967" alt="adoptList" src="https://github.com/daylee619/final_project/assets/110576332/e76bfbeb-baea-44ce-a220-de2b60ff1ba2">
+<img width="848" alt="adopt2" src="https://github.com/daylee619/final_project/assets/110576332/1e822d55-be65-43f4-bfce-08bc9cd797bc">
 
-<img width="932" alt="adminAdoptList" src="https://github.com/daylee619/final_project/assets/110576332/86d3a820-180b-49b4-844d-4a653e6f16b7">
+
+<img width="932" alt="adoptList" src="https://github.com/daylee619/final_project/assets/110576332/e6eddefb-9718-4d65-a1aa-0308bd8aeafc">
+
+
+<img width="967" alt="adminAdoptList" src="https://github.com/daylee619/final_project/assets/110576332/c3f1daf5-d9ce-4142-a804-567eb559e58c">
+
+
+
 
 
   
@@ -79,9 +85,13 @@ IDE : Eclipse
   - 어드민이 배송완료로 status를 변경해주어야 리뷰쓰기 버튼이 생성
 
   - 리뷰를 쓰고 난 후 리뷰쓰기 버튼은 수정/완료 버튼으로 텍스트가 변경
+    
 
-<img width="971" alt="review1" src="https://github.com/daylee619/final_project/assets/110576332/651ce16d-ae58-4f01-8c2e-bf993d298fed">
+<img width="971" alt="review1" src="https://github.com/daylee619/final_project/assets/110576332/835bff5d-0ad2-486b-b6b6-efd5fc77920f">
 
-<img width="964" alt="review3" src="https://github.com/daylee619/final_project/assets/110576332/174f12b6-3aa9-46de-9160-9fc3b5530353">
 
-<img width="971" alt="review2" src="https://github.com/daylee619/final_project/assets/110576332/19f8490b-1eae-42b3-946f-9cfbee0b9e7d">
+<img width="971" alt="review2" src="https://github.com/daylee619/final_project/assets/110576332/98c84bbc-d501-4345-9e39-8dcdb4a9ed54">
+
+
+<img width="964" alt="review3" src="https://github.com/daylee619/final_project/assets/110576332/a82d32c4-6ea8-4c64-ab47-29fca57c485f">
+
