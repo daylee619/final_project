@@ -1,4 +1,4 @@
-<img src="/images/묘견이네.png" />
+
 
 ## 🐶 묘견이네 🐱
 묘견이네는 국비학원에서 진행한 팀프로젝트입니다.
@@ -22,9 +22,12 @@
 
 
 ## 🎈 개발 환경
-BE : java, spring boot, jpa, 
+BE : java, spring boot, jpa
+
 FE : html, css, js, jquery, ajax, bootstrap
+
 DB : oracle, sql developer
+
 IDE : Eclipse
 
 
@@ -42,13 +45,17 @@ IDE : Eclipse
 - 입양
 - 봉사, 견학, 센터
 - 실종 제보 게시판
-- 어드민
+- 어드민
+
 
 ## 맡은 기능 구현
+
 - 입양
 
 입양 CRUD 구현
+
 어드민 페이지에서 입양 리스트 확인가능
+
 입양이 완료된 펫은 입양 가능 펫리스트에서 삭제 가능
   
 - 리뷰
